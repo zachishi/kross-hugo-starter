@@ -17,10 +17,19 @@ sections:
   templates:
   - post
 - type: directory
+  path: content/events
+  label: Events
+  create: all
+  match: "**/*"
+- type: directory
   path: content/about
   label: About
   create: none
   match: "*"
+- type: document
+  path: content/board/*
+  label: Board
+  match: "**/*"
 - type: directory
   path: data
   label: Data
