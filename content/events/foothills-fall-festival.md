@@ -3,6 +3,6 @@ date = ""
 description = ""
 draft = true
 image = ""
-title = "Foothills Fall Festival"
+title = "Foothills Winter Classic"
 
 +++
